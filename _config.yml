@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 
-logo: ![Blog Logo](/assets/logo.png)
+logo: [/assets/logo.png]
+show_downloads: ["true"]
