@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 
-logo: [/assets/logo.png]
-show_downloads: ["true"]
+logo: /assets/logo.png
+show_downloads: true
