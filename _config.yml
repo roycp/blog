@@ -2,3 +2,12 @@ theme: jekyll-theme-minimal
 
 logo: /assets/logo.jpg
 show_downloads: true
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
